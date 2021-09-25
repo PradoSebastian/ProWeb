@@ -1,0 +1,7 @@
+C:\Users\prado\source\repos\Prueba2\Taller.Net\bin\Debug\Taller.Net.exe.config
+C:\Users\prado\source\repos\Prueba2\Taller.Net\bin\Debug\Taller.Net.exe
+C:\Users\prado\source\repos\Prueba2\Taller.Net\bin\Debug\Taller.Net.pdb
+C:\Users\prado\source\repos\Prueba2\Taller.Net\obj\Debug\Taller.Net.csprojAssemblyReference.cache
+C:\Users\prado\source\repos\Prueba2\Taller.Net\obj\Debug\Taller.Net.csproj.CoreCompileInputs.cache
+C:\Users\prado\source\repos\Prueba2\Taller.Net\obj\Debug\Taller.Net.exe
+C:\Users\prado\source\repos\Prueba2\Taller.Net\obj\Debug\Taller.Net.pdb

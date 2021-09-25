@@ -1,0 +1,22 @@
+<div>
+  <table class="tabla" id="Tabla">
+      <thead>
+          <tr>
+              <th>#</th>
+              <th>Cédula</th>
+              <th>Nombre</th>
+          </tr>
+      </thead>
+      <tbody id="bodyTabla">
+          <tr *ngFor= "let persona of personas">
+              <td>{{persona.id}}</td>
+              <td><input type="text" value={{persona.cedula}} (keyup)= "actualizarCedula(persona, $event)"></td>
+              <td><input type="text" value={{persona.nombre}} (keyup)= "actualizarNombre(persona, $event)"></td>
+          </tr>
+      </tbody>
+      <tfoot>
+      </tfoot>
+  </table>
+  <button type="button" (click)="agregarFila()">+</button>
+  <button type="button" (click)="eliminarUltimaFila()">-</button>
+</div>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Prueba</title>
+        <link rel="stylesheet" type = "text/css" href="style2.css">
+        <script type="text/javascript" src="script2.js"></script>
+    </head>
+    <body>
+        <div>
+            <table class="tabla" id="Tabla">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Cedula</th>
+                        <th>Nombre</th>
+                    </tr>
+                </thead>
+                <tbody id="bodyTabla">
+                    <tr>
+                        <td>1</td>
+                        <td><input type="text" value="578358931"></td>
+                        <td><input type="text" value="Alicia"></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td><input type="text" value="562425"></td>
+                        <td><input type="text" value="Bob"></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td><input type="text" value="746763"></td>
+                        <td><input type="text" value="Charles"></td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                </tfoot>
+            </table>
+            <button type="button" onclick="agregarFila()">+</button>
+            <button type="button" onclick="eliminarUltimaFila()">-</button>
+        </div>
+
+    </body>
+</html>

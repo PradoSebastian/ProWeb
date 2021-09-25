@@ -1,0 +1,9 @@
+.tabla
+{
+    border-collapse: collapse;
+}
+
+.tabla, th, td 
+{
+    border: 1px solid black;
+}

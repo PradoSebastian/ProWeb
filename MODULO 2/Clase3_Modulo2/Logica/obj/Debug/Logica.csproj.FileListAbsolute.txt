@@ -1,0 +1,11 @@
+C:\Users\prado\source\repos\Logica\bin\Debug\Logica.dll
+C:\Users\prado\source\repos\Logica\bin\Debug\Logica.pdb
+C:\Users\prado\source\repos\Logica\bin\Debug\Modelos.dll
+C:\Users\prado\source\repos\Logica\bin\Debug\Repositorio.dll
+C:\Users\prado\source\repos\Logica\bin\Debug\Modelos.pdb
+C:\Users\prado\source\repos\Logica\bin\Debug\Repositorio.pdb
+C:\Users\prado\source\repos\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\prado\source\repos\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\prado\source\repos\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\prado\source\repos\Logica\obj\Debug\Logica.dll
+C:\Users\prado\source\repos\Logica\obj\Debug\Logica.pdb

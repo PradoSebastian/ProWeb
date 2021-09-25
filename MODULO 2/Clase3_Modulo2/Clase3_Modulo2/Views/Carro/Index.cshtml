@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Clase3_Modulo2.Models.Carro>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*<h3>Id: @Model.Id</h3>
+<h3>Color: @Model.Color</h3>
+<h3>Marca: @Model.Marca</h3>
+<h3>Fecha Venta: @Model.FechaVenta</h3>
+<h3>Vendido: @Model.Vendido</h3>*@
+
+<style>
+    .rojo {
+        color: red;
+    }
+
+    .azul {
+        color: blue;
+    }
+</style>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Marca</td>
+            <td>Color</td>
+            <td>@Html.DisplayNameFor(model => model.Vendido)</td>
+            <td>@Html.DisplayNameFor(model => model.FechaVenta)</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var carro in Model)
+        {
+            var clase = carro.Color;
+            <tr class="@clase">
+                <td>@carro.Id</td>
+                <td>@carro.Marca</td>
+                <td>@carro.Color</td>
+                <td>@Html.DisplayFor(i => carro.Vendido)</td>
+                <td>@Html.DisplayFor(i => carro.FechaVenta)</td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+

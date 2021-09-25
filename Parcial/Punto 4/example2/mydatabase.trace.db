@@ -1,0 +1,4 @@
+2020-03-26 18:38:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "COMPANY" no encontrada
+Table "COMPANY" not found; SQL statement:
+insert into company (id, name) values (-1, 'company1') [42102-199]

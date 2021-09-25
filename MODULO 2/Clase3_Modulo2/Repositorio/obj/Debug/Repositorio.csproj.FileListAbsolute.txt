@@ -1,0 +1,9 @@
+C:\Users\prado\source\repos\Repositorio\bin\Debug\Repositorio.dll
+C:\Users\prado\source\repos\Repositorio\bin\Debug\Repositorio.pdb
+C:\Users\prado\source\repos\Repositorio\bin\Debug\Modelos.dll
+C:\Users\prado\source\repos\Repositorio\bin\Debug\Modelos.pdb
+C:\Users\prado\source\repos\Repositorio\obj\Debug\Repositorio.csprojAssemblyReference.cache
+C:\Users\prado\source\repos\Repositorio\obj\Debug\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\prado\source\repos\Repositorio\obj\Debug\Repositorio.csproj.CopyComplete
+C:\Users\prado\source\repos\Repositorio\obj\Debug\Repositorio.dll
+C:\Users\prado\source\repos\Repositorio\obj\Debug\Repositorio.pdb

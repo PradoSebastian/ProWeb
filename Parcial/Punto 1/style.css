@@ -1,0 +1,33 @@
+div{
+    margin: 20px;
+}
+
+#img1
+{
+    width: 160px;
+}
+
+#img2
+{
+    width: 180px;
+}
+
+.exterior
+{
+    border: dashed red 20px;
+}
+
+.interior{
+    width: 100px;
+    height: auto;
+}
+
+#fondoimg1
+{
+    border: inset powderblue 10px;
+}
+
+#fondoimg2
+{
+    border: outset palegreen 20px;
+}
